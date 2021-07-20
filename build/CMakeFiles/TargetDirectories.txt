@@ -1,0 +1,3 @@
+/home/mofro/Workspace/sdl2-apps/CMAKE-SDL2-Skeleton/build/CMakeFiles/rebuild_cache.dir
+/home/mofro/Workspace/sdl2-apps/CMAKE-SDL2-Skeleton/build/CMakeFiles/edit_cache.dir
+/home/mofro/Workspace/sdl2-apps/CMAKE-SDL2-Skeleton/build/CMakeFiles/testsdl-app.dir
